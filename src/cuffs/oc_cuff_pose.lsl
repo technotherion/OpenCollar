@@ -80,7 +80,7 @@ string g_sPoseName= "";
 string g_sActivePose="";
 
 list g_lCollarMap = [];
-integer SUMMON_PARTICLES = -58931; // Used only for cuffs to summon particles from one NAMED leash point to another NAMED anchor point
+integer SUMMON_PARTICLES = -58931; // Used only for cuffs to summon particles from one NAMED leash point to another NAMED addon anchor point
 // SUMMON_PARTICLES should follow this message format: <From Name>|<To Name>|<Age>|<Gravity>
 integer QUERY_POINT_KEY = -58932;
 // This query is automatically triggered and the REPLY signal immediately spawns in particles via the SetParticles function
