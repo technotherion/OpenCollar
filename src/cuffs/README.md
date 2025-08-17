@@ -10,7 +10,7 @@ OpenCollar Attachment Configuration
 - Create a visual representation of your Object.
 - This could be either a Mesh or a Prim build (Rigged mesh is not supported).
 - Rez the Object to the ground
-- create a prim (cube) for each Chain Attachment Point you want to support.
+- create a prim (cube) for each Chain Anchor Point you want to support.
 - Name the newly created Prims according the name-list (see Naming Guide.md for details)
 - First select the Prims, then select the Object and click the Link button.
 - Make sure the Prims are highlighted blue and the visible Object is highlighted yellow (root)
