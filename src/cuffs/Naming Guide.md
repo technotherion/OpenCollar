@@ -1,5 +1,4 @@
 # Anchor Point naming guide
-======
 
 This guide has predictable and recommended naming schemes for the Anchor Points on OpenCollar Addons. For instance the "Inner Upper Leg" Anchor Point would be named: i(r/l)ulc
 
