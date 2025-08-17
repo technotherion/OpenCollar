@@ -1,12 +1,14 @@
-Cuff naming guide
+# Anchor Point naming guide
 ======
+
+This guide has predictable and recommended naming schemes for the Anchor Points on OpenCollar Addons. For instance the "Inner Upper Leg" Anchor Point would be named: i(r/l)ulc
+
+## Arm Cuffs
 
 * Right Lower Arm Cuff = rlac
 * Front Right Lower Arm Cuff = frlac
 * Back Right Lower Arm Cuff = brlac
 * Inner Right Lower Arm Cuff = irlac
-
-This guide we hope has predictable naming schemes for the particle anchors on the OpenCollar Cuffs. For instance the Inner upper leg point would be named: i(r/l)ulc
 
 
 * Left Lower Arm Cuff = llac
@@ -26,6 +28,8 @@ This guide we hope has predictable naming schemes for the particle anchors on th
 * Back Left Upper Arm Cuff = bluac
 * Inner Left Upper Arm Cuff = iluac
 
+## Leg Cuffs
+
 * Right Upper Leg Cuff = rulc
 * Front Right Upper Leg Cuff = frulc
 * Back Right Upper Leg Cuff = brulc
@@ -36,6 +40,7 @@ This guide we hope has predictable naming schemes for the particle anchors on th
 * Front Left Upper Leg Cuff = flulc
 * Back Left Upper Leg Cuff = blulc
 * Inner Left Upper Leg Cuff = ilulc
+
 
 * Right Lower Leg Cuff = rllc
 * Front Right Lower Leg Cuff = frllc
@@ -48,6 +53,7 @@ This guide we hope has predictable naming schemes for the particle anchors on th
 * Back Left Lower Leg Cuff = blllc
 * Inner Left Lower Leg Cuff = illlc
 
+## Belt
 
 * Front Belt = fb
 * Back Belt = bb
