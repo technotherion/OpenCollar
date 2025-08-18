@@ -3,9 +3,9 @@ OpenCollar Attachment Configuration
 =============
 
 
-[Build an Attachment that Supports Chains]
+[Build an Attachment that Supports Chained Anchor Points]
 ======
-
+For the sake of consistency, the term cuff here refers to any addon -- a cuff is an addon but an addon is not always a cuff.
 
 - Create a visual representation of your Object.
 - This could be either a Mesh or a Prim build (Rigged mesh is not supported).
